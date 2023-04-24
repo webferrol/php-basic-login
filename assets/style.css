@@ -1,0 +1,13 @@
+.login {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#loginform {
+  max-width: 340px;
+}
+
+#wp-submit {
+  padding: .3rem .5rem;
+}
